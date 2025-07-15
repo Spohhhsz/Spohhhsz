@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Meu nome é Sophia
 
-<!--
-**Spohhhsz/Spohhhsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Programação Full Stack Java pelo SENAC (Em andamento)  
+💻 Foco em lógica de programação, desenvolvimento web e JavaScript
 
-Here are some ideas to get you started:
+## 💡 Tecnologias e conhecimentos:
+- JavaScript (lógica, estruturas de controle, funções, vetores, matrizes)
+- HTML básico
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Buscando:
+- Primeiras oportunidades como estagiária ou freelancer
+- Aprimorar habilidades com projetos reais e desafios
+
+## 📫 Contato:
+- ✉️ Email: sophia.pinheiro.dev@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sophia-pinheiro
+
+---
+> *"Estudar é plantar agora para colher oportunidades amanhã."*
